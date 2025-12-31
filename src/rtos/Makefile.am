@@ -24,6 +24,7 @@ noinst_LTLIBRARIES += %D%/librtos.la
 	%D%/rtkernel.c \
 	%D%/hwthread.c \
 	%D%/zephyr.c \
+	%D%/rockbox.c \
 	%D%/riot.c \
 	%D%/rtos.h \
 	%D%/rtos_standard_stackings.h \
